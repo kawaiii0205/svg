@@ -1,0 +1,15 @@
+{
+  "name": "roem-svg-poster-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "python3 scripts/render-posters.py",
+    "export": "node scripts/export-png.mjs",
+    "overlay": "node overlays/live-rules/render-assets.mjs",
+    "build": "npm run generate && npm run export && npm run overlay"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
+  }
+}
