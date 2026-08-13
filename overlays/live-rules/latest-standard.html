@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RYMO 岩灼电竞考核标准｜娱乐</title>
+  <!--
+    Assumptions
+    - This is the latest single-page standard supplied by the user; it does not rotate.
+    - The source panel is 360 × 540px and is centered vertically in a 1920 × 1080 browser source.
+    - All copy follows the supplied image, including “装备不限制” and “可两把AW”.
+  -->
+  <style>
+    :root {
+      color-scheme: dark;
+      --paper: #fff1dc;
+      --ink: rgba(24, 12, 10, 0.95);
+      --ink-strong: rgba(14, 8, 8, 0.98);
+      --accent: #ff8b43;
+      --accent-pale: #ffc487;
+      --line: rgba(255, 139, 63, 0.48);
+      --line-soft: rgba(255, 139, 63, 0.22);
+      --muted: #ddb991;
+      --quiet: #9f7d62;
+      --panel-width: 360px;
+      --panel-height: 540px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: transparent;
+    }
+
+    body {
+      font-family: "Hiragino Sans GB", "PingFang SC", "Microsoft YaHei", sans-serif;
+      color: var(--paper);
+    }
+
+    .overlay-shell {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      padding: 0 12px;
+      pointer-events: none;
+    }
+
+    .panel {
+      width: var(--panel-width);
+      min-height: var(--panel-height);
+      overflow: hidden;
+      border: 1px solid rgba(255, 154, 82, 0.9);
+      border-radius: 8px;
+      background: var(--ink);
+      box-shadow: 0 18px 56px rgba(0, 0, 0, 0.48), 0 0 0 1px rgba(255, 191, 128, 0.08) inset;
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+    }
+
+    .panel-header {
+      min-height: 68px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 0 14px;
+      border-bottom: 1px solid var(--line);
+      background: var(--ink-strong);
+    }
+
+    .header-mark {
+      width: 6px;
+      height: 34px;
+      flex: 0 0 auto;
+      border-radius: 4px;
+      background: var(--accent);
+      box-shadow: 0 0 18px rgba(255, 139, 67, 0.38);
+    }
+
+    .header-title {
+      min-width: 0;
+      font-family: "Songti SC", "STSong", serif;
+      font-size: 22px;
+      font-weight: 800;
+      line-height: 1;
+      color: var(--accent-pale);
+      white-space: nowrap;
+    }
+
+    .header-en {
+      display: none;
+    }
+
+    .content {
+      padding: 8px 0 10px;
+    }
+
+    .section {
+      padding: 7px 14px 8px;
+      border-bottom: 1px dashed var(--line);
+    }
+
+    .section:last-child { border-bottom: 0; }
+
+    .section-title {
+      margin-bottom: 5px;
+      color: var(--accent-pale);
+      font-family: "Songti SC", "STSong", serif;
+      font-size: 20px;
+      font-weight: 800;
+      line-height: 1.15;
+    }
+
+    .rule-line {
+      display: grid;
+      grid-template-columns: 94px 1fr;
+      gap: 4px;
+      align-items: baseline;
+      min-height: 25px;
+      color: var(--paper);
+      font-size: 16px;
+      font-weight: 650;
+      line-height: 1.45;
+      white-space: nowrap;
+    }
+
+    .rule-label { color: var(--muted); }
+    .rule-copy strong { color: var(--accent-pale); }
+
+    .entertainment-copy {
+      min-height: 25px;
+      color: var(--paper);
+      font-size: 16px;
+      font-weight: 650;
+      line-height: 1.45;
+    }
+
+    body.preview {
+      background:
+        linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px),
+        #151918;
+      background-size: 64px 64px;
+    }
+
+    body.preview::before {
+      content: "直播画面安全区预览";
+      position: absolute;
+      inset: 56px;
+      border: 1px dashed rgba(255,255,255,0.12);
+      color: rgba(255,255,255,0.24);
+      display: grid;
+      place-items: center;
+      font-size: 28px;
+      font-weight: 700;
+    }
+
+    @media (max-width: 500px) {
+      .overlay-shell { padding: 0; }
+    }
+  </style>
+</head>
+<body>
+  <main class="overlay-shell" aria-label="RYMO 岩灼电竞考核标准">
+    <section class="panel">
+      <header class="panel-header">
+        <span class="header-mark" aria-hidden="true"></span>
+        <div class="header-title">RYMO 岩灼电竞考核标准</div>
+        <div class="header-en">ENTERTAINMENT</div>
+      </header>
+      <div class="content">
+        <section class="section entertainment-section">
+          <div class="section-title">「娱乐」</div>
+          <div class="entertainment-copy">熟悉地图，会提供情绪价值</div>
+        </section>
+        <section class="section">
+          <div class="section-title">「赤岩」</div>
+          <div class="rule-line"><span class="rule-label">单考</span><span class="rule-copy">三取二 <strong>8条</strong>　装备不限</span></div>
+          <div class="rule-line"><span class="rule-label">双考</span><span class="rule-copy">三取二 <strong>14杀</strong>　五套一把AW</span></div>
+        </section>
+        <section class="section">
+          <div class="section-title">「灼曜」</div>
+          <div class="rule-line"><span class="rule-label">单考</span><span class="rule-copy">三取二 <strong>10杀</strong>　装备不限</span></div>
+          <div class="rule-line"><span class="rule-label">双考</span><span class="rule-copy">三取二 <strong>17杀</strong>　五套一把AW</span></div>
+        </section>
+        <section class="section">
+          <div class="section-title">「圣尊」</div>
+          <div class="rule-line"><span class="rule-label">单考</span><span class="rule-copy">三取二 <strong>14杀</strong>　装备不限</span></div>
+          <div class="rule-line"><span class="rule-label">双考</span><span class="rule-copy">三取二 <strong>21杀</strong>　五套可两把AW</span></div>
+        </section>
+        <section class="section">
+          <div class="section-title">「明星圣尊」</div>
+          <div class="rule-line"><span class="rule-label">单考</span><span class="rule-copy">三取三 <strong>20杀</strong>　装备不限制</span></div>
+          <div class="rule-line"><span class="rule-label">双考</span><span class="rule-copy">三取三 <strong>27杀</strong>　五套可两把AW</span></div>
+        </section>
+      </div>
+    </section>
+  </main>
+  <script>
+    const params = new URLSearchParams(location.search);
+    document.body.classList.toggle('preview', params.get('preview') === '1');
+  </script>
+</body>
+</html>
