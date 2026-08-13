@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="4720" viewBox="0 0 1080 4720" role="img" aria-labelledby="poster-title poster-subtitle">
+  <defs>
+    <pattern id="editorial-grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#292522" stroke-width="1" opacity="0.055"/>
+    </pattern>
+    <filter id="soft-shadow" x="-10%" y="-10%" width="120%" height="125%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#292522" flood-opacity="0.09"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="4720" fill="#f7f3ec"/>
+  <rect width="1080" height="4720" fill="url(#editorial-grid)"/>
+  <rect x="0" y="0" width="20" height="4720" fill="#ff5b2e"/>
+  <rect x="20" y="0" width="6" height="4720" fill="#28cfe0"/>
+
+  <g aria-label="brand lockup">
+    <image id="brand-logo" href="assets/rymo-logo.png" x="68" y="56" width="88" height="88" preserveAspectRatio="xMidYMid meet"/>
+    <text id="brand-name" x="178" y="99" fill="#17110f" font-family="'Avenir Next','PingFang SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="900">RYMO岩灼电竞</text>
+    <text x="178" y="137" fill="#706a65" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="24" font-weight="700">SERVICE INFORMATION SYSTEM</text>
+    <text x="1012" y="104" text-anchor="end" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">NO. 2026.08</text>
+    <line x1="68" y1="174" x2="1012" y2="174" stroke="#292522" stroke-width="2"/>
+    <circle cx="984" cy="174" r="7" fill="#28cfe0"/>
+    <circle cx="1012" cy="174" r="7" fill="#ff5b2e"/>
+  </g>
+
+  <!-- Hero heading occupies the left editorial column. -->
+  <g aria-label="poster heading">
+    <text x="68" y="246" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">RYMO ORDER NOTICE / ESCORT</text>
+    <text id="poster-title" x="68" y="342" fill="#17110f" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="78" font-weight="900">点单须知</text>
+    <text id="poster-subtitle" x="68" y="424" fill="#292522" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">护航服务标准 · 请老板仔细阅读</text>
+    <rect x="68" y="462" width="112" height="8" fill="#ff5b2e"/>
+    <rect x="188" y="462" width="54" height="8" fill="#28cfe0"/>
+    <text x="68" y="516" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="26" font-weight="600">本须知为护航订单通用规则，具体以下单页与客服确认为准</text>
+
+    <g transform="translate(68 572)">
+      <rect width="168" height="56" fill="#292522"/>
+      <text x="84" y="37" text-anchor="middle" fill="#ffffff" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="25" font-weight="800">默认双护</text>
+      <rect x="184" width="168" height="56" fill="#ffffff" stroke="#292522" stroke-width="2"/>
+      <text x="268" y="37" text-anchor="middle" fill="#292522" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="25" font-weight="800">五套起接单</text>
+      <rect x="368" width="168" height="56" fill="#28cfe0"/>
+      <text x="452" y="37" text-anchor="middle" fill="#17110f" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="25" font-weight="800">全卡带齐</text>
+    </g>
+  </g>
+
+  <!-- Removable production guide; insert character art using xMidYMax meet. -->
+  <g id="character-slot-guide" aria-label="人物素材预留区">
+    <rect id="character-slot" x="632" y="214" width="380" height="540" fill="#ffffff" fill-opacity="0.38" stroke="#ff8a3d" stroke-width="3" stroke-dasharray="12 10"/>
+    <line x1="632" y1="700" x2="1012" y2="700" stroke="#292522" stroke-width="2" stroke-dasharray="8 8"/>
+    <path d="M650 232H706V238H656V288H650Z" fill="#28cfe0"/>
+    <path d="M994 232H938V238H988V288H994Z" fill="#ff5b2e"/>
+    <path d="M650 736H706V730H656V680H650Z" fill="#ff5b2e"/>
+    <path d="M994 736H938V730H988V680H994Z" fill="#28cfe0"/>
+    <text x="822" y="444" text-anchor="middle" fill="#292522" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="900">人物素材预留区</text>
+    <text x="822" y="486" text-anchor="middle" fill="#ff5b2e" font-family="'DIN Alternate','PingFang SC',sans-serif" font-size="24" font-weight="800">槽位 380 × 540</text>
+    <text x="822" y="526" text-anchor="middle" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="650">建议透明素材 760 × 1080 px</text>
+    <text x="822" y="734" text-anchor="middle" fill="#292522" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="800">脚底对齐线</text>
+  </g>
+
+  <g id="content-area" aria-label="editable notice content">
+    <line x1="68" y1="790" x2="1012" y2="790" stroke="#292522" stroke-width="2"/>
+
+    <!-- 01 护航配置 -->
+    <text x="68" y="870" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">01 / GEAR &amp; CARDS</text>
+    <text x="1012" y="870" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">护航配置</text>
+    <line x1="68" y1="892" x2="1012" y2="892" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="932">护航默认双护，打手接单五套起（四级听力头也允许），会主动给</text>
+      <text x="68" y="972">老板理包，以老板结算界面带出价值为准。</text>
+      <text x="68" y="1052">每人6张房卡，一两个打手包所有房卡（进图前需与打手确认好），</text>
+      <text x="68" y="1092">一共12张包括过点卡，需带齐红卡。</text>
+      <text x="68" y="1132">老板死亡即判定炸单，卡战备入局（不卡战备炸单，无保底补偿、</text>
+      <text x="68" y="1172">不提供售后）。</text>
+    </g>
+
+    <!-- 02 炸单保底 -->
+    <text x="68" y="1222" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">02 / BOMB GUARANTEE</text>
+    <text x="1012" y="1222" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">炸单保底</text>
+    <line x1="68" y1="1244" x2="1012" y2="1244" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="1284">机密炸一把＋25万保底；绝密航天炸一把＋60万保底；绝密巴克什</text>
+      <text x="68" y="1324">炸一把＋55万保底；监狱炸一把＋80万保底。</text>
+      <text x="68" y="1404">为保证老板体验：打手开局连炸3把以上、中途连炸6把以上，可</text>
+      <text x="68" y="1444">联系售后客服补偿保底并换另一组打手。</text>
+      <text x="68" y="1484">无论撤离成功或失败，单局带出低于机密108万、绝密158万，</text>
+      <text x="68" y="1524">不计入保底，免费送给老板；若打手阵亡、老板丢包单出，</text>
+      <text x="68" y="1564">物资按50%计算保底；高于158万计入保底，无论撤离成功失败。</text>
+    </g>
+
+    <!-- 03 换人与售后 -->
+    <text x="68" y="1614" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">03 / SWAP &amp; AFTER-SALE</text>
+    <text x="1012" y="1614" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">换人与售后</text>
+    <line x1="68" y1="1636" x2="1012" y2="1636" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="1676">对赌不出不结单条件特殊：前三把对陪玩不满意可免费换人；之后</text>
+      <text x="68" y="1716">除打手主动换人、中途炸单保底大于带出价值外，不可换人。</text>
+      <text x="68" y="1796">接受态度、情绪投诉，售后核实后同样换人。</text>
+      <text x="68" y="1836">打手出现恶意卡保或态度问题等，可联系店内客服售后（专业售后</text>
+      <text x="68" y="1876">24小时在线）；出现问题请在三天内及时联系客服售后，超过追诉</text>
+      <text x="68" y="1916">期无法核实处理。</text>
+      <text x="68" y="1956">游戏中请老板务必听打手指挥，若因老板自身问题导致撤离失败，</text>
+      <text x="68" y="1996">本单无法提供售后。</text>
+    </g>
+
+    <!-- 04 撤离失败保底补偿 -->
+    <text x="68" y="2046" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">04 / EXTRACTION FAILURE</text>
+    <text x="1012" y="2046" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">撤离失败保底补偿</text>
+    <line x1="68" y1="2068" x2="1012" y2="2068" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="2108">① 若清图后老板因个人原因未能撤离（如断网、被淘汰等），</text>
+      <text x="68" y="2148">记当局打手补偿保底计入单子累计保底，带出一半计入老板保底。</text>
+      <text x="68" y="2188">② 保底折现平台钻石补偿，多种方式提供选择（例如：炸单3局</text>
+      <text x="68" y="2228">绝密150万，折现150钻石）。</text>
+      <text x="68" y="2268">③ 补偿保底由平台合作跑刀，以纯币形式补给老板跑刀。</text>
+    </g>
+
+    <!-- 05 假账与六套 -->
+    <text x="68" y="2318" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">05 / VALUE RULES</text>
+    <text x="1012" y="2318" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">假账与六套</text>
+    <line x1="68" y1="2340" x2="1012" y2="2340" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="2380">出非洲之心等大红不额外收费，老板可自加鸡腿。</text>
+      <text x="68" y="2420">老太头38以上耐久、特里克头盔45耐久、指挥官头盔54耐久，以及</text>
+      <text x="68" y="2460">特里克110以上、泰坦125以上的6套，不算假账（可自行与打手商量）。</text>
+      <text x="68" y="2500">金色胸挂、红背包均不算假账，需计入带出保底（是否计入六套可</text>
+      <text x="68" y="2540">自行与打手商量）。</text>
+    </g>
+
+    <!-- 06 封禁与追缴 -->
+    <text x="68" y="2590" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">06 / BAN &amp; CLAW-BACK</text>
+    <text x="1012" y="2590" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">封禁与追缴</text>
+    <line x1="68" y1="2612" x2="1012" y2="2612" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="2652">因三角洲机制问题（短封）导致老板账号被追缴，打手会承担追缴</text>
+      <text x="68" y="2692">部分赔偿，但不会免单。</text>
+      <text x="68" y="2732">陪玩被查出开挂：将扣除打手所有工资，并大力补偿给老板。</text>
+      <text x="68" y="2772">红手大部分需要积号：数据异常、打手实力太强或历史战绩被判断</text>
+      <text x="68" y="2812">为护航而被封禁，并不代表打手是挂，正常算单，请老板理解。</text>
+      <text x="68" y="2852">因店内打手问题造成封禁或追缴：封禁问题赔偿200元，追缴问题</text>
+      <text x="68" y="2892">赔偿100元，再加追缴哈夫币金额。</text>
+      <text x="68" y="2932">追缴哈夫币提供两种补偿方案：① 按1比10万比例进行赔付；</text>
+      <text x="68" y="2972">② 店内安排跑刀上号，跑回等额追缴哈夫币。</text>
+      <text x="68" y="3012">因护航涉及战备、时间、成本问题，无法以护航或陪玩形式补偿</text>
+      <text x="68" y="3052">追缴哈夫币，感谢板板理解。</text>
+    </g>
+
+    <!-- 07 结算与规则补充 -->
+    <text x="68" y="3102" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">07 / SETTLEMENT</text>
+    <text x="1012" y="3102" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">结算与规则补充</text>
+    <line x1="68" y1="3124" x2="1012" y2="3124" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="3164">护航订单打手实际带出部分达到订单总保底一半以上且需要换人，</text>
+      <text x="68" y="3204">按整单50%结算辛苦费（有效带出哈夫币－炸单保底补偿＝实际有</text>
+      <text x="68" y="3244">效带出哈夫币）；仅适用于体验单／纯保底护航单。</text>
+      <text x="68" y="3284">护航过程中两打手倒地死亡，老板兜底，打手按50%计保底；</text>
+      <text x="68" y="3324">两人头及以上，本局金额不计入保底；一人头（除体验单外），</text>
+      <text x="68" y="3364">其他单超出保底金额100万哈夫币到保底则视为结单，不视为卡保底；</text>
+      <text x="68" y="3404">端／手游体验单无卡保底规则。</text>
+      <text x="68" y="3444">三角洲技术陪玩单：双陪单局只计算陪玩3个及以上的击杀总量计入</text>
+      <text x="68" y="3484">结单条件；单陪单局只计算陪玩2个及以上的击杀总量计入结单条件。</text>
+      <text x="68" y="3524">护航订单不硬性规定提供高额情绪价值；如有较高情绪价值需求，</text>
+      <text x="68" y="3564">推荐陪玩订单，或在下单备注栏表明需要能够提供情绪价值的打手。</text>
+      <text x="68" y="3604">所有订单（含体验单）过程中撤离失败，保险带出物资累计达到</text>
+      <text x="68" y="3644">订单保底，需成功撤离一次才可结单。</text>
+      <text x="68" y="3684">手游出现封禁追缴，因无法查挂，可安排直播质检打手，与实力</text>
+      <text x="68" y="3724">严重不符则按外挂处理；端游出现封禁追缴可安排查挂，发现打手</text>
+      <text x="68" y="3764">为外挂，在追缴封号补偿外额外赔偿一万猫粮。</text>
+    </g>
+
+    <!-- 08 存单与自定义 -->
+    <text x="68" y="3814" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">08 / STORED ORDERS</text>
+    <text x="1012" y="3814" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">存单与自定义</text>
+    <line x1="68" y1="3836" x2="1012" y2="3836" stroke="#292522" stroke-width="2"/>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#17110f">
+      <text x="68" y="3876">平台不建议任何形式的存单，欢迎您支持陪玩；以存单形式出现</text>
+      <text x="68" y="3916">任何问题，我们只能协助解决，无法强制退款，请谨慎存单。</text>
+      <text x="68" y="3956">本店自定义订单：如需点单自定义赔付标准，最高至免单、无额外赔付。</text>
+    </g>
+
+    <!-- 09 温馨提示（高亮卡） -->
+    <text x="68" y="4006" fill="#ff5b2e" font-family="'DIN Alternate','Avenir Next',sans-serif" font-size="26" font-weight="900">09 / REMIND</text>
+    <text x="1012" y="4006" text-anchor="end" fill="#706a65" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="700">温馨提示</text>
+    <line x1="68" y1="4028" x2="1012" y2="4028" stroke="#292522" stroke-width="2"/>
+    <rect x="68" y="4050" width="944" height="372" fill="#292522" filter="url(#soft-shadow)"/>
+    <rect x="68" y="4050" width="10" height="372" fill="#28cfe0"/>
+    <text x="104" y="4100" fill="#28cfe0" font-family="'DIN Alternate','PingFang SC',sans-serif" font-size="24" font-weight="900">09 / REMIND · 售后三天内</text>
+    <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="600" fill="#ffffff">
+      <text x="104" y="4144">老板需要售后，请在三天内及时联系客服售后，超时不予售后，</text>
+      <text x="104" y="4184">感谢您的理解！</text>
+      <text x="104" y="4224">本店打手接单后将全程开启录制，内容仅作售后参考，绝不泄露，</text>
+      <text x="104" y="4264">感谢各位老板理解。</text>
+      <text x="104" y="4304">须知明细标准为主！未单独标注订单标准说明的，以点单须知</text>
+      <text x="104" y="4344">明细标准为主！</text>
+    </g>
+  </g>
+
+  <g id="footer-copy" aria-label="required footer">
+    <line x1="68" y1="4560" x2="1012" y2="4560" stroke="#292522" stroke-width="2"/>
+    <rect x="68" y="4584" width="250" height="58" fill="#ff5b2e"/>
+    <text x="193" y="4623" text-anchor="middle" fill="#ffffff" font-family="'DIN Alternate','PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="900">官网 roem.top</text>
+    <text x="1012" y="4606" text-anchor="end" fill="#292522" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="650">具体服务标准以下单页与客服确认为准</text>
+    <text x="1012" y="4644" text-anchor="end" fill="#ff5b2e" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="24" font-weight="800">未成年人禁止消费</text>
+  </g>
+</svg>

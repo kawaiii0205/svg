@@ -1,0 +1,390 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="5871" viewBox="0 0 1080 5871">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#130504"/>
+    <stop offset="38%" stop-color="#21100a"/>
+    <stop offset="72%" stop-color="#100806"/>
+    <stop offset="100%" stop-color="#050304"/>
+  </linearGradient>
+  <radialGradient id="heroGlow" cx="0.18" cy="0.03" r="0.72">
+    <stop offset="0%" stop-color="#ff6733" stop-opacity="0.50"/>
+    <stop offset="100%" stop-color="#ff6733" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="sideGlow" cx="1" cy="0.20" r="0.78">
+    <stop offset="0%" stop-color="#ffb15c" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#ffb15c" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="bottomGlow" cx="0" cy="1" r="0.9">
+    <stop offset="0%" stop-color="#8f1c13" stop-opacity="0.36"/>
+    <stop offset="100%" stop-color="#8f1c13" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ff5b2e"/>
+    <stop offset="100%" stop-color="#ffbc69"/>
+  </linearGradient>
+  <linearGradient id="strokeGold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ff6a2f"/>
+    <stop offset="55%" stop-color="#ffb15c"/>
+    <stop offset="100%" stop-color="#7a2b1c"/>
+  </linearGradient>
+  <filter id="cardShadow" x="-15%" y="-15%" width="130%" height="130%">
+    <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.32"/>
+    <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#ff5b2e" flood-opacity="0.08"/>
+  </filter>
+</defs>
+<rect x="0" y="0" width="1080" height="5871" rx="0" fill="url(#bg)" stroke="none" stroke-width="1" />
+<rect x="0" y="0" width="1080" height="5871" rx="0" fill="url(#heroGlow)" stroke="none" stroke-width="1" />
+<rect x="0" y="0" width="1080" height="5871" rx="0" fill="url(#sideGlow)" stroke="none" stroke-width="1" />
+<rect x="0" y="0" width="1080" height="5871" rx="0" fill="url(#bottomGlow)" stroke="none" stroke-width="1" />
+<line x1="70" y1="360" x2="-180" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="132" y1="360" x2="-118" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="194" y1="360" x2="-56" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="256" y1="360" x2="6" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="318" y1="360" x2="68" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="380" y1="360" x2="130" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="442" y1="360" x2="192" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="504" y1="360" x2="254" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="566" y1="360" x2="316" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="628" y1="360" x2="378" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="690" y1="360" x2="440" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="752" y1="360" x2="502" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="814" y1="360" x2="564" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="876" y1="360" x2="626" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="938" y1="360" x2="688" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="1000" y1="360" x2="750" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="1062" y1="360" x2="812" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<line x1="1124" y1="360" x2="874" y2="5641" stroke="#ff8a3d" stroke-width="1" opacity="0.035" />
+<circle cx="29" cy="61" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="180" cy="338" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="331" cy="615" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="482" cy="892" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="633" cy="1169" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="784" cy="1446" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="935" cy="1723" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="6" cy="2000" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="157" cy="2277" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="308" cy="2554" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="459" cy="2831" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="610" cy="3108" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="761" cy="3385" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="912" cy="3662" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1063" cy="3939" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="134" cy="4216" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="285" cy="4493" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="436" cy="4770" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="587" cy="5047" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="738" cy="5324" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="889" cy="5601" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1040" cy="7" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="111" cy="284" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="262" cy="561" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="413" cy="838" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="564" cy="1115" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="715" cy="1392" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="866" cy="1669" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1017" cy="1946" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="88" cy="2223" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="239" cy="2500" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="390" cy="2777" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="541" cy="3054" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="692" cy="3331" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="843" cy="3608" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="994" cy="3885" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="65" cy="4162" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="216" cy="4439" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="367" cy="4716" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="518" cy="4993" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="669" cy="5270" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="820" cy="5547" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="971" cy="5824" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="42" cy="230" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="193" cy="507" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="344" cy="784" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="495" cy="1061" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="646" cy="1338" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="797" cy="1615" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="948" cy="1892" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="19" cy="2169" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="170" cy="2446" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="321" cy="2723" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="472" cy="3000" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="623" cy="3277" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="774" cy="3554" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="925" cy="3831" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1076" cy="4108" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="147" cy="4385" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="298" cy="4662" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="449" cy="4939" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="600" cy="5216" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="751" cy="5493" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="902" cy="5770" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1053" cy="176" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="124" cy="453" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="275" cy="730" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="426" cy="1007" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="577" cy="1284" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="728" cy="1561" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="879" cy="1838" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1030" cy="2115" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="101" cy="2392" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="252" cy="2669" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="403" cy="2946" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="554" cy="3223" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="705" cy="3500" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="856" cy="3777" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1007" cy="4054" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="78" cy="4331" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="229" cy="4608" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="380" cy="4885" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="531" cy="5162" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="682" cy="5439" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="833" cy="5716" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="984" cy="122" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="55" cy="399" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="206" cy="676" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="357" cy="953" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="508" cy="1230" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="659" cy="1507" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="810" cy="1784" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="961" cy="2061" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="32" cy="2338" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="183" cy="2615" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="334" cy="2892" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="485" cy="3169" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="636" cy="3446" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="787" cy="3723" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="938" cy="4000" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="9" cy="4277" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="160" cy="4554" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="311" cy="4831" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="462" cy="5108" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="613" cy="5385" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="764" cy="5662" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="915" cy="68" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1066" cy="345" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="137" cy="622" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="288" cy="899" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="439" cy="1176" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="590" cy="1453" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="741" cy="1730" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="892" cy="2007" r="3.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="1043" cy="2284" r="1.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="114" cy="2561" r="2.2" fill="#ffb15c" opacity="0.13" />
+<circle cx="265" cy="2838" r="3.2" fill="#ffb15c" opacity="0.13" />
+<path d="M-80 500 C210 400 360 620 620 500 C820 405 950 350 1160 430" fill="none" stroke="#ff8a3d" stroke-width="3" opacity="0.11" />
+<path d="M-80 5111 C210 4991 420 5211 720 5051 C900 4961 1010 4921 1160 4991" fill="none" stroke="#ff8a3d" stroke-width="3" opacity="0.09" />
+<text x="82" y="154" fill="#8d6640" text-anchor="start" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:76px;font-weight:900;">RYMO岩灼电竞</text>
+<text x="80" y="150" fill="#ffcf8c" text-anchor="start" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:76px;font-weight:900;">RYMO岩灼电竞</text>
+<text x="80" y="250" fill="#ffd19a" text-anchor="start" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:62px;font-weight:900;" stroke="#2a0d08" stroke-width="8" paint-order="stroke fill" stroke-linejoin="round">点单须知</text>
+<text x="84" y="315" fill="#f5d5c0" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:30px;font-weight:750;">护航默认双护｜打手五套起接单｜房卡全带齐</text>
+<rect x="84" y="346" width="200" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="184.0" y="379" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">护航默认双护</text>
+<rect x="308" y="346" width="180" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="398.0" y="379" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">五套起接单</text>
+<rect x="512" y="346" width="190" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="607.0" y="379" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">房卡全带齐</text>
+<rect x="80" y="455" width="920" height="74" rx="28" fill="#1b0c08" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.86" filter="url(#cardShadow)" />
+<rect x="96" y="469" width="9" height="46" rx="5" fill="url(#accentGrad)" stroke="none" stroke-width="1" />
+<text x="122" y="504" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:34px;font-weight:900;">炸单保底</text>
+<text x="972" y="502" fill="#d9ad8e" text-anchor="end" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:23px;font-weight:700;">BOMB GUARANTEE</text>
+<rect x="80" y="553" width="920" height="370" rx="24" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.76" filter="url(#cardShadow)" />
+<rect x="80" y="553" width="920" height="74" rx="24" fill="#251008" stroke="none" stroke-width="1" fill-opacity="0.9" />
+<rect x="80" y="603" width="920" height="24" rx="0" fill="#251008" stroke="none" stroke-width="1" fill-opacity="0.9" />
+<line x1="340" y1="553" x2="340" y2="923" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="560" y1="553" x2="560" y2="923" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="627" x2="1000" y2="627" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="701" x2="1000" y2="701" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="775" x2="1000" y2="775" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="849" x2="1000" y2="849" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<text x="210.0" y="599" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:900;">地图</text>
+<text x="450.0" y="599" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:900;">炸一把保底</text>
+<text x="780.0" y="599" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:900;">备注</text>
+<text x="210.0" y="673" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">机密</text>
+<text x="450.0" y="673" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">+25万</text>
+<text x="780.0" y="673" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">不卡老太头炸单：无保底补偿</text>
+<text x="210.0" y="747" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">绝密 · 航天</text>
+<text x="450.0" y="747" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">+60万</text>
+<text x="780.0" y="747" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:23px;font-weight:750;">开局连炸3把以上可换另一组打手</text>
+<text x="210.0" y="821" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">绝密 · 巴克什</text>
+<text x="450.0" y="821" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">+55万</text>
+<text x="780.0" y="821" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:23px;font-weight:750;">中途连炸6把以上可换另一组打手</text>
+<text x="210.0" y="895" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">监狱</text>
+<text x="450.0" y="895" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">+80万</text>
+<text x="780.0" y="895" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">老板死亡即判定炸单</text>
+<rect x="80" y="985" width="920" height="74" rx="28" fill="#1b0c08" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.86" filter="url(#cardShadow)" />
+<rect x="96" y="999" width="9" height="46" rx="5" fill="url(#accentGrad)" stroke="none" stroke-width="1" />
+<text x="122" y="1034" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:34px;font-weight:900;">护航配置</text>
+<text x="972" y="1032" fill="#d9ad8e" text-anchor="end" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:23px;font-weight:700;">GEAR &amp; CARDS</text>
+<rect x="80" y="1083" width="920" height="370" rx="24" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.76" filter="url(#cardShadow)" />
+<rect x="80" y="1083" width="920" height="74" rx="24" fill="#251008" stroke="none" stroke-width="1" fill-opacity="0.9" />
+<rect x="80" y="1133" width="920" height="24" rx="0" fill="#251008" stroke="none" stroke-width="1" fill-opacity="0.9" />
+<line x1="340" y1="1083" x2="340" y2="1453" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="580" y1="1083" x2="580" y2="1453" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="1157" x2="1000" y2="1157" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="1231" x2="1000" y2="1231" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="1305" x2="1000" y2="1305" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<line x1="80" y1="1379" x2="1000" y2="1379" stroke="#ff8a3d" stroke-width="1.6" opacity="0.72" stroke-dasharray="5 7" />
+<text x="210.0" y="1129" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:900;">项目</text>
+<text x="460.0" y="1129" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:900;">标准</text>
+<text x="790.0" y="1129" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:900;">说明</text>
+<text x="210.0" y="1203" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">打手配置</text>
+<text x="460.0" y="1203" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">默认双护</text>
+<text x="790.0" y="1203" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:23px;font-weight:750;">五套起接单（四级听力头允许）</text>
+<text x="210.0" y="1277" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">房卡</text>
+<text x="460.0" y="1277" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">每人6张</text>
+<text x="790.0" y="1277" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:23px;font-weight:750;">两个打手包所有房卡，共12张含过点卡</text>
+<text x="210.0" y="1351" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">红卡</text>
+<text x="460.0" y="1351" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">需带齐</text>
+<text x="790.0" y="1351" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">进图前需与打手确认</text>
+<text x="210.0" y="1425" fill="#ffd19a" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:900;">结算口径</text>
+<text x="460.0" y="1425" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:27px;font-weight:750;">结算面板</text>
+<text x="790.0" y="1425" fill="#fff1df" text-anchor="middle" style="font-family:'Songti SC','STSong','SimSun',serif;font-size:23px;font-weight:750;">以老板结算界面带出价值为准，主动理包</text>
+<rect x="80" y="1515" width="920" height="512" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="1515" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="1567" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="1532" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="1565" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">换人</text>
+<text x="234" y="1566" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">换人与售后</text>
+<circle cx="122" cy="1617" r="6" fill="#ff8a3d" />
+<text x="146" y="1627" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">对赌不出不结单条件特殊：前三把对陪玩不满意可免费换人</text>
+<circle cx="122" cy="1661" r="6" fill="#ff8a3d" />
+<text x="146" y="1671" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">之后除打手主动换人、中途炸单保底大于带出价值外，不可换人</text>
+<circle cx="122" cy="1705" r="6" fill="#ff8a3d" />
+<text x="146" y="1715" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">接受态度、情绪投诉，售后核实后同样换人</text>
+<circle cx="122" cy="1749" r="6" fill="#ff8a3d" />
+<text x="146" y="1759" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">若打手出现恶意卡保底或态度问题等，可联系专业售后处理，24</text>
+<text x="146" y="1803" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">小时在线</text>
+<circle cx="122" cy="1837" r="6" fill="#ff8a3d" />
+<text x="146" y="1847" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">出现问题请在三天内及时联系客服售后，超过追诉期无法核实处</text>
+<text x="146" y="1891" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">理</text>
+<circle cx="122" cy="1925" r="6" fill="#ff8a3d" />
+<text x="146" y="1935" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">游戏中请老板务必听打手指挥，若因老板自身问题导致撤离失败</text>
+<text x="146" y="1979" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">，本单无法提供售后</text>
+<rect x="80" y="2081" width="920" height="600" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="2081" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="2133" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="2098" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="2131" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">补偿</text>
+<text x="234" y="2132" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">撤离失败保底补偿</text>
+<circle cx="122" cy="2183" r="6" fill="#ff8a3d" />
+<text x="146" y="2193" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">若清图后老板因个人原因未能撤离（如断网、被踢等），记当局</text>
+<text x="146" y="2237" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">打手最高带出一半计入老板保底</text>
+<circle cx="122" cy="2271" r="6" fill="#ff8a3d" />
+<text x="146" y="2281" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">保底补偿提供多种方式：</text>
+<text x="122" y="2325" fill="#ff8a3d" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:26px;font-weight:900;">1</text>
+<text x="146" y="2325" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">打手补偿保底，计入订单累计保底</text>
+<text x="122" y="2369" fill="#ff8a3d" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:26px;font-weight:900;">2</text>
+<text x="146" y="2369" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">保底折现为平台钻石补偿，例如：炸单3局绝密150万，折现150</text>
+<text x="146" y="2413" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">钻石</text>
+<text x="122" y="2457" fill="#ff8a3d" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:26px;font-weight:900;">3</text>
+<text x="146" y="2457" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">由平台合作跑刀补偿纯币给老板跑刀</text>
+<circle cx="122" cy="2491" r="6" fill="#ff8a3d" />
+<text x="146" y="2501" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">无论撤离成功或失败，单局带出低于机密108万、绝密158万不计</text>
+<text x="146" y="2545" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">入保底，免费送给老板</text>
+<circle cx="122" cy="2579" r="6" fill="#ff8a3d" />
+<text x="146" y="2589" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">若打手阵亡、老板丢包撤离，带出物资按50%计算保底；高于158</text>
+<text x="146" y="2633" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">万计入保底，无论撤离成功失败</text>
+<rect x="80" y="2735" width="920" height="380" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="2735" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="2787" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="2752" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="2785" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">假账</text>
+<text x="234" y="2786" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">假账与六套</text>
+<circle cx="122" cy="2837" r="6" fill="#ff8a3d" />
+<text x="146" y="2847" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">出非洲之心等大红不额外收费，老板可自加鸡腿</text>
+<circle cx="122" cy="2881" r="6" fill="#ff8a3d" />
+<text x="146" y="2891" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">老太头38以上耐久、特里克头盔45耐久、指挥官头盔54耐久，以</text>
+<text x="146" y="2935" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">及特里克110以上、泰坦125以上的6套，不算假账（可自行与打</text>
+<text x="146" y="2979" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">手商量）</text>
+<circle cx="122" cy="3013" r="6" fill="#ff8a3d" />
+<text x="146" y="3023" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">金色胸挂、红背包均不算假账，需计入带出保底（是否需要六套</text>
+<text x="146" y="3067" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">可自行与打手商量）</text>
+<rect x="80" y="3169" width="920" height="600" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="3169" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="3221" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="3186" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="3219" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">封禁</text>
+<text x="234" y="3220" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">封禁与追缴</text>
+<circle cx="122" cy="3271" r="6" fill="#ff8a3d" />
+<text x="146" y="3281" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">因三角洲机制问题（短封）导致老板账号被追缴，打手承担追缴</text>
+<text x="146" y="3325" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">部分赔偿，但不会免单</text>
+<circle cx="122" cy="3359" r="6" fill="#ff8a3d" />
+<text x="146" y="3369" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">陪玩被查出开挂：扣除打手所有工资，并大力补偿给老板</text>
+<circle cx="122" cy="3403" r="6" fill="#ff8a3d" />
+<text x="146" y="3413" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">因打手大部分需要租号：数据异常、打手实力过强或历史战绩被</text>
+<text x="146" y="3457" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">判断为护航而被封禁，并不代表打手是外挂，正常算单</text>
+<circle cx="122" cy="3491" r="6" fill="#ff8a3d" />
+<text x="146" y="3501" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">因店内打手问题造成封禁或追缴：封禁问题赔偿200元，</text>
+<circle cx="122" cy="3535" r="6" fill="#ff8a3d" />
+<text x="146" y="3545" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">追缴问题赔偿100元，再加追缴哈弗币金额</text>
+<circle cx="122" cy="3579" r="6" fill="#ff8a3d" />
+<text x="146" y="3589" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">追缴哈弗币提供两种补偿方案：① 按1比10万比例进行赔付</text>
+<circle cx="122" cy="3623" r="6" fill="#ff8a3d" />
+<text x="146" y="3633" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">② 店内安排跑刀上号，补足等额追缴哈弗币</text>
+<circle cx="122" cy="3667" r="6" fill="#ff8a3d" />
+<text x="146" y="3677" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">因护航涉及战备、时间、成本问题，无法以护航或陪玩形式补偿</text>
+<text x="146" y="3721" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">追缴哈弗币，感谢老板理解</text>
+<rect x="80" y="3823" width="920" height="820" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="3823" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="3875" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="3840" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="3873" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">结算</text>
+<text x="234" y="3874" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">结算与规则补充</text>
+<circle cx="122" cy="3925" r="6" fill="#ff8a3d" />
+<text x="146" y="3935" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">护航订单打手实际带出部分达到订单总保底一半以上且需要换人</text>
+<text x="146" y="3979" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">，按整单50%结算辛苦费（有效带出哈弗币－炸单保底补偿＝实</text>
+<text x="146" y="4023" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">际带出有效哈弗币）；仅适用于体验单、纯保底护航单</text>
+<circle cx="122" cy="4057" r="6" fill="#ff8a3d" />
+<text x="146" y="4067" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">护航过程中两打手倒地死亡，老板兜底击败：两人头及以上，本</text>
+<text x="146" y="4111" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">局金额不计入保底；一人头计50%保底</text>
+<circle cx="122" cy="4145" r="6" fill="#ff8a3d" />
+<text x="146" y="4155" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">除体验单外，其他单超出保底金额100万哈弗币，则不视为卡保</text>
+<text x="146" y="4199" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">底；端游、手游体验单无卡保底规则，到保底则视为结单</text>
+<circle cx="122" cy="4233" r="6" fill="#ff8a3d" />
+<text x="146" y="4243" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">三角洲技术陪玩单：双陪单局只计算陪玩3个及以上的击杀总量</text>
+<text x="146" y="4287" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">计入结单条件；单陪单局只计算陪玩2个及以上的击杀总量计入</text>
+<text x="146" y="4331" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">结单条件</text>
+<circle cx="122" cy="4365" r="6" fill="#ff8a3d" />
+<text x="146" y="4375" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">所有订单（含体验单）过程中撤离失败，保险带出物资累计达到</text>
+<text x="146" y="4419" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">订单保底，需成功撤离一次才可结单</text>
+<circle cx="122" cy="4453" r="6" fill="#ff8a3d" />
+<text x="146" y="4463" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">手游出现封禁、追缴，因无法查挂，可安排直播质检打手；如果</text>
+<text x="146" y="4507" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">与实力严重不符，则按外挂处理</text>
+<circle cx="122" cy="4541" r="6" fill="#ff8a3d" />
+<text x="146" y="4551" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">端游出现封禁、追缴，可安排查挂；如果发现游戏打手为外挂，</text>
+<text x="146" y="4595" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">在追缴、封号补偿外额外赔偿一万猫粮</text>
+<rect x="80" y="4697" width="920" height="424" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="4697" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="4749" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="4714" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="4747" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">存单</text>
+<text x="234" y="4748" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">存单与自定义</text>
+<circle cx="122" cy="4799" r="6" fill="#ff8a3d" />
+<text x="146" y="4809" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">平台不建议任何形式的存单，欢迎支持陪玩。但以存单形式出现</text>
+<text x="146" y="4853" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">任何问题，我们只能协助解决，无法强制给您退款，请谨慎存单</text>
+<circle cx="122" cy="4887" r="6" fill="#ff8a3d" />
+<text x="146" y="4897" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">本店自定义订单，如需点单，自定义赔付标准最高至免单，无额</text>
+<text x="146" y="4941" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">外赔付</text>
+<circle cx="122" cy="4975" r="6" fill="#ff8a3d" />
+<text x="146" y="4985" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">护航订单因订单原因不硬性规定提供高额情绪价值。如有较高情</text>
+<text x="146" y="5029" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">绪价值需求，推荐选择陪玩订单，或在备注栏中表明需要能够提</text>
+<text x="146" y="5073" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">供情绪价值的打手接单</text>
+<rect x="80" y="5175" width="920" height="380" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.78" filter="url(#cardShadow)" />
+<rect x="80" y="5175" width="920" height="78" rx="30" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="80" y="5227" width="920" height="26" rx="0" fill="#24100a" stroke="none" stroke-width="1" fill-opacity="0.94" />
+<rect x="108" y="5192" width="108" height="48" rx="24" fill="#1d0f0b" stroke="#ff8a3d" stroke-width="1.5" fill-opacity="0.82" />
+<text x="162.0" y="5225" fill="#ffd19a" text-anchor="middle" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:24px;font-weight:800;">提示</text>
+<text x="234" y="5226" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:32px;font-weight:900;">温馨提示</text>
+<circle cx="122" cy="5277" r="6" fill="#ff8a3d" />
+<text x="146" y="5287" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">老板需要售后，请在三天内及时联系客服售后，超时不予售后，</text>
+<text x="146" y="5331" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">感谢您的理解</text>
+<circle cx="122" cy="5365" r="6" fill="#ff8a3d" />
+<text x="146" y="5375" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">本店打手接单后将全程开启后台录音、录屏，该操作仅为保障交</text>
+<text x="146" y="5419" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">易双方合法权益，全程合规无侵权；内容仅作售后参考，绝不泄</text>
+<text x="146" y="5463" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">露，感谢各位老板理解</text>
+<circle cx="122" cy="5497" r="6" fill="#ff8a3d" />
+<text x="146" y="5507" fill="#fff1df" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:28px;font-weight:650;">未单独标注订单标准说明的，以点单须知明细标准为主！</text>
+<rect x="80" y="5641" width="920" height="142" rx="30" fill="#120806" stroke="url(#strokeGold)" stroke-width="2" fill-opacity="0.82" filter="url(#cardShadow)" />
+<text x="118" y="5695" fill="#ffd19a" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:30px;font-weight:900;">具体服务标准以下单页与客服确认为准</text>
+<text x="118" y="5741" fill="#f5d5c0" text-anchor="start" style="font-family:'PingFang SC','Hiragino Sans GB','STHeiti','Microsoft YaHei',sans-serif;font-size:27px;font-weight:700;">东东电竞搜索 RYMO岩灼电竞｜未成年禁止消费</text>
+</svg>
